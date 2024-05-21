@@ -12,14 +12,13 @@
 # Code           Place
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
-# au		  Australia (Sydney)
+# au		  Australia (Sydney) 
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
-
 
 
 
